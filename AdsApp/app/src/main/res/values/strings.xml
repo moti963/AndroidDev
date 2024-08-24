@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdsApp</string>
+    <string name="home">Home</string>
+    <string name="banner">Banner</string>
+    <string name="app_ad_id">ca-app-pub-5625736625692144~2523937277</string>
+    <string name="banner_ad_id">ca-app-pub-5625736625692144/8394376902</string>
+    <string name="interstitial">Interstitial</string>
+    <string name="int_ad_id">ca-app-pub-5625736625692144/8779759406</string>
+    <string name="new_int_ad_id">ca-app-pub-5625736625692144/7554738840</string>
+</resources>

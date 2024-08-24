@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="underweight">#ADD8E6</color> <!-- Light Blue -->
+    <color name="normal_weight">#008000</color> <!-- Green -->
+    <color name="overweight">#FFFF00</color> <!-- Yellow -->
+    <color name="obese">#FF0000</color> <!-- Red -->
+    <color name="extreme_obesity">#800080</color> <!-- Purple -->
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/nav_home"
+        />
+
+    <item
+        android:title="@string/room_lib"
+        android:icon="@drawable/baseline_dataset_24"
+        android:id="@+id/nav_room"
+        />
+
+    <item
+        android:title="@string/app_name"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:id="@+id/nav_app"
+        />
+</menu>

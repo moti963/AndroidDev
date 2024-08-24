@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">roomlib</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_expense">Enter expense</string>
+    <string name="add">Add</string>
+    <string name="add_your_expenses">Add your expenses</string>
+</resources>

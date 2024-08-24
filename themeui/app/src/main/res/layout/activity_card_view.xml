@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CardView"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/card_view_page"
+        style="@style/MyTextBold"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/previous_page"
+        android:onClick="handleOnClickPrev"
+        android:layout_margin="10dp"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="500dp"
+        android:minWidth="200dp"
+        android:minHeight="200dp"
+        android:background="@color/black"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="20dp">
+
+        <!-- Inner LinearLayout to hold ImageView and TextViews -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- ImageView for the image -->
+            <ImageView
+                android:id="@+id/cardImage"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:scaleType="centerCrop"
+                android:src="@drawable/my"
+                android:contentDescription="@string/this_is_my_image"
+                />
+
+            <!-- TextView for the title -->
+            <TextView
+                android:id="@+id/cardTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/moti_kumar_yadav"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <!-- TextView for the description -->
+            <TextView
+                android:id="@+id/cardDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="@string/android_developer"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_page"
+        android:onClick="handleOnClickNext"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Saffron color band -->
+    <item android:top="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/color_saffron"/>
+            <size android:height="100dp" android:width="450dp" />
+        </shape>
+    </item>
+    <!-- White color band -->
+    <item android:top="100dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white"/>
+            <size android:height="100dp" android:width="450dp"/>
+        </shape>
+    </item>
+    <!-- Green color band -->
+    <item android:top="200dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/color_green"/>
+            <size android:height="100dp" android:width="450dp" />
+        </shape>
+    </item>
+
+    <item android:width="100dp" android:left="175dp">
+        <shape android:shape="line">
+            <stroke android:color="@color/color_blue"
+                android:width="3dp"/>
+        </shape>
+    </item>
+
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="15">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="30">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="45">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="60" android:left="175dp">
+            <shape android:shape="line" android:left="175dp">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="75">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="90">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="105">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="120">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="135">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="150">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item android:width="100dp" android:left="175dp">
+        <rotate android:fromDegrees="165">
+            <shape android:shape="line">
+                <stroke android:color="@color/color_blue"
+                    android:width="3dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item android:top="100dp" android:bottom="100dp" android:width="100dp" android:left="175dp">
+        <shape android:shape="oval">
+            <stroke android:color="@color/color_blue"
+                android:width="3dp"/>
+        </shape>
+    </item>
+</layer-list>

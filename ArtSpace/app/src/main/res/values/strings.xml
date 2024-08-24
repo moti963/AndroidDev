@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="artwork_1_title">Echoes of Eternity</string>
+    <string name="artwork_1_author">Sophia Laurent</string>
+    <string name="artwork_1_year">1883</string>
+    <string name="artwork_1_type">Oil Painting</string>
+    <string name="artwork_1_description">A serene depiction of an endless ocean under a twilight sky, capturing the ethereal beauty of nature.</string>
+
+    <string name="artwork_2_title">Whispers of the Forgotten</string>
+    <string name="artwork_2_author">Ethan Caldwell</string>
+    <string name="artwork_2_year">1957</string>
+    <string name="artwork_2_type">Abstract Sculpture</string>
+    <string name="artwork_2_description">A modern sculpture composed of twisted metal and glass, symbolizing the fragmented memories of a forgotten era.</string>
+
+    <string name="artwork_3_title">Chronicles of the Lost City</string>
+    <string name="artwork_3_author">Amara Patel</string>
+    <string name="artwork_3_year">2021</string>
+    <string name="artwork_3_type">Science Fiction Novel</string>
+    <string name="artwork_3_description">A thrilling novel exploring the mysteries of an ancient, technologically advanced civilization buried deep beneath the earth.</string>
+
+    <string name="artwork_4_title">Reflections of a Distant Past</string>
+    <string name="artwork_4_author">Diego Herrera</string>
+    <string name="artwork_4_year">1912</string>
+    <string name="artwork_4_type">Watercolor Painting</string>
+    <string name="artwork_4_description">A delicate painting portraying an ancient ruin bathed in soft morning light, evoking a sense of nostalgia and history.</string>
+
+    <string name="artwork_5_title">The Symphony of Silence</string>
+    <string name="artwork_5_author">Lila Anderson</string>
+    <string name="artwork_5_year">1974</string>
+    <string name="artwork_5_type">Classical Music Composition</string>
+    <string name="artwork_5_description">A hauntingly beautiful orchestral piece that explores the themes of solitude and introspection through minimalistic yet powerful melodies.</string>
+
+    <string name="btn_next">Next</string>
+    <string name="btn_prev">Previous</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/home"
+        android:id="@+id/nav_home"
+        />
+
+    <item
+        android:icon="@drawable/baseline_image_24"
+        android:id="@+id/nav_img"
+        android:title="@string/gallery"
+        />
+
+    <item
+        android:id="@+id/nav_camera"
+        android:title="@string/camera"
+        android:icon="@drawable/baseline_camera_24"
+        />
+
+    <item
+        android:title="@string/audio"
+        android:icon="@drawable/baseline_library_music_24"
+        android:id="@+id/nav_music"
+        />
+
+    <item
+        android:title="@string/video"
+        android:icon="@drawable/baseline_videocam_24"
+        android:id="@+id/nav_video"
+        />
+</menu>

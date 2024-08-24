@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ne_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/home"
+        />
+
+        <item
+        android:id="@+id/ne_banner"
+        android:icon="@drawable/rounded_planner_banner_ad_pt_24"
+        android:title="@string/banner"
+        />
+
+        <item
+        android:id="@+id/ne_interstitial"
+        android:icon="@drawable/baseline_ad_units_24"
+        android:title="@string/interstitial"
+        />
+
+
+</menu>

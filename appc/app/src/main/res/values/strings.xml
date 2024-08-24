@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">appc</string>
+    <string name="btn_text">Button Text</string>
+    <string name="app_compact_btn_text">App Compact Button Text</string>
+    <string name="image_desc">This is an image</string>
+    <string name="txt_view_text">
+        In today’s fast-paced world, mindfulness has become an essential practice for maintaining mental and emotional well-being. Mindfulness, the act of being present and fully engaged in the moment, helps individuals manage stress, improve focus, and enhance overall quality of life. By incorporating mindfulness into daily routines, people can experience a profound shift in their mental state and approach to life’s challenges.
+
+        One of the primary benefits of mindfulness is its ability to reduce stress. When individuals practice mindfulness, they learn to observe their thoughts and feelings without judgment. This non-reactive awareness allows them to respond to stressors more calmly and effectively. Studies have shown that regular mindfulness practice can lower cortisol levels, the hormone associated with stress, leading to a more relaxed and balanced state of mind.
+
+        Mindfulness also improves concentration and productivity. In a world filled with constant distractions, staying focused can be challenging. Mindfulness techniques, such as meditation and deep breathing, train the mind to stay present and attentive. This heightened focus can lead to better decision-making, increased creativity, and enhanced problem-solving skills. By being fully present in each task, individuals can accomplish more with greater efficiency and satisfaction.
+
+        Furthermore, mindfulness fosters emotional resilience. By becoming more aware of their emotions, individuals can better understand and manage them. This self-awareness helps in recognizing negative thought patterns and replacing them with positive ones. Mindfulness encourages a compassionate and non-judgmental attitude towards oneself and others, promoting healthier relationships and a more positive outlook on life.
+
+        Incorporating mindfulness into daily life does not require significant time or effort. Simple practices like mindful breathing, mindful eating, or taking a few moments to observe one’s surroundings can make a substantial difference. By making mindfulness a habit, individuals can cultivate a sense of peace and clarity that enhances their overall well-being.
+    </string>
+    <string name="next_btn">Next</string>
+    <string name="name_text_view">Name</string>
+    <string name="logo_img_desc">Logo</string>
+    <string name="splash_screen_txt">Welcome to splash screen</string>
+    <string name="animation_text">Animation text</string>
+    <string name="scale_btn_text">Scale</string>
+    <string name="rotate_btn_text">Rotate</string>
+    <string name="translate_btn_text">Translate</string>
+    <string name="alpha_btn_text">Alpha</string>
+</resources>

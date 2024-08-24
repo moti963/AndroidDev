@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bmiapp</string>
+    <string name="height_hint_txtf">Enter your height(in Ft)</string>
+    <string name="height_hint_txti">Enter your height(in In)</string>
+    <string name="weight_hint_txt">Enter your weight</string>
+    <string name="gender_hint_text">Select Gender</string>
+    <string name="next_btn_txt">Next</string>
+    <string name="calc_btn_txt">Calculate</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+</resources>
